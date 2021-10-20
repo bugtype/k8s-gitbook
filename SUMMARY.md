@@ -6,6 +6,7 @@
 * [파드(Pod)](pod.md)
 * [노드(Node)](node.md)
 * [레플리카셋(ReplicaSet)](replicaset.md)
+* [Tips](tips.md)
 
 ## TIL
 
